@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">calculadora2_JUAN</string>
+    <string name="titulo_calculadora">C A L C U L A D O R A</string>
+    <string name="mensaje_inicio">Pulse para comenzar a calcular</string>
+    <string name="resultado">RESULTADO</string>
+
+    <string name="cd_punto">punto decimal</string>
+    <string name="cd_borrar">borrar todo</string>
+    <string name="cd_divide">division</string>
+    <string name="cd_suma">sumar</string>
+    <string name="cd_resta">restar</string>
+    <string name="cd_multiplicar">multiplicar</string>
+    <string name="cd_igual">igual</string>
+    
+    <string name="op_divide">÷</string>
+    <string name="op_suma">+</string>
+    <string name="op_resta">-</string>
+    <string name="op_multiplicar">x</string>
+    <string name="op_punto">.</string>
+    <string name="op_borrar">C</string>
+    <string name="op_igual">=</string>
+
+
+    <!--lineas de errores-->
+    <string name="error_numero">Numero incorrecto</string>
+    <string name="error_division_cero">No se puede dividir entre cero</string>
+
+</resources>
